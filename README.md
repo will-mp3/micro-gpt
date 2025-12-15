@@ -1,9 +1,5 @@
 # Micro GPT
 
-Note: this project is based on the tutorial posted by freeCodeCamp.org (https://www.youtube.com/watch?v=UU1WVnMk4E8). 
-
-Built for learning purposes. I do not claim full ownership.
-
 ## Setup
 
 This project was developed on an Apple M1 chip running MacOS Sonoma 14.6.1

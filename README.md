@@ -59,9 +59,3 @@ There are four files of note in this repository: training.py, model.py, gui.py, 
 - model.py is a combination of training.py and my own code, its purpose is to load and deploy our model either through the command line or the included gui.
 - gui.py is my own creation and builds upon the model in the form of a gui so that its capability may be better observed (outside of the command line).
 - fix_model.py is also my own creation, and was unfortunately necesary due to how the model was originally pickled when created, this script refactors the model so that it may be used in our gui.
-
-This was such a fun project to build and the information I learned from it has been invaluable to me.
-Setup will be annoying, and honestly I dont really recommend it.
-Instead, check out my demo available on my portoflio site, you will find the link to that on my profiles README.
-
-Will

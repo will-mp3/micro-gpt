@@ -52,8 +52,7 @@ micro-gpt/
 ├── DataExtractors/          # Scripts for preparing training data
 │   ├── dataExtract-v1.py    # OpenWebText extraction (single-pass)
 │   └── dataExtract-v2.py    # OpenWebText extraction (multi-file split)
-├── vocab.txt                # Character vocabulary built from training data
-└── model-01.pkl             # Trained model weights (not tracked in git)
+└── vocab.txt                # Character vocabulary built from training data
 ```
 
 ### Key Files
